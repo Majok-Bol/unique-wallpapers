@@ -1,0 +1,18 @@
+body {
+    padding: 0;
+    margin: 0;
+    /* overflow: hidden; */
+  }
+  
+  #web {
+    height: 100vh;
+    width: 100%;
+    background-image: repeating-radial-gradient(
+      red 0px,
+      yellow 80px,
+      black 300px,
+      red 30px,
+      blue
+    );
+  }
+  
